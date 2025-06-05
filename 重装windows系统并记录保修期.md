@@ -11,5 +11,6 @@
 通过预制安装包U盘，安装7z,chrome,新驱动工具（安装联想驱动）、office365_64，sumatrapdf、QQpinyin<br>
 7zmanager->工具->选项->+->应用->确定<br>
 QQ拼音安装界面时后两个选项去掉，还需要把状态谈隐藏<br>
+添加“打印机或扫描仪”->手动添加->ip地址：172.16.12.5->TCP/IP设备->选择磁盘安装->选择不共享
 安装驱动好后要重启<br>
 主机编号：前Type number+后Serial Number<br>
