@@ -13,4 +13,5 @@ H3C目前使用KVM和H5 KVM进行远程控制,指的是：Keyboard, Video, Mouse
 安装镜像需要指定镜像路径，并且在选项->启动优先级设置中进行设置<br>
 安装时需要指定时区，指定安装的多少，不选最小安装，选择file and print server,所选择的软件中，不包括backup server相关的<br>
 还需要指定安装的盘区，并对于swap内存以及一些目录大小进行重新分配<br>
+/boot：3024MiB;/boot/efi:2500MiB；第三个624.35GiB，不是最终，问田哥；swap:64GiB，不是最终的，问田哥。
 安装完还要改网口是干嘛的，目前未知<br>
