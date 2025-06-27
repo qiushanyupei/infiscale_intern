@@ -8,3 +8,5 @@ sda1：表示第一个硬盘的第一个分区。<br>
 sda2：表示第一个硬盘的第二个分区。<br>
 sda3：表示第一个硬盘的第三个分区。<br>
 一般会分系统启动盘和数据存储盘<br>
+<br>
+SATA（Serial ATA）(ATA:Advanced Technology Attachment)
