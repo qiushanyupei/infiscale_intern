@@ -9,4 +9,7 @@ sda2：表示第一个硬盘的第二个分区。<br>
 sda3：表示第一个硬盘的第三个分区。<br>
 一般会分系统启动盘和数据存储盘<br>
 <br>
-SATA（Serial ATA）(ATA:Advanced Technology Attachment)
+SATA（Serial ATA）(ATA:Advanced Technology Attachment)<br>
+分区是对硬件磁盘空间的物理划分，目录是对文件存储结构的逻辑组织<br>
+分区的例子：/dev/sda1、/dev/sda2<br>
+目录的例子：/home、/、/etc、/boot<br>
