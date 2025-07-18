@@ -11,5 +11,10 @@ sda3：表示第一个硬盘的第三个分区。<br>
 <br>
 SATA（Serial ATA）(ATA:Advanced Technology Attachment)<br>
 分区是对硬件磁盘空间的物理划分，目录是对文件存储结构的逻辑组织<br>
-分区的例子：/dev/sda1、/dev/sda2<br>
-目录的例子：/home、/、/etc、/boot<br>
+/dev对于挂载非常关键,常常作为挂载源<br>
+挂载有几种分类：<br>
+1、本地磁盘分区（例：/dev/sda1）<br>
+2、U盘/移动硬盘(例：/dev/sdb1)<br>
+3、ISO镜像（例：/home/user/file.iso）<br>
+4、网络路径(例：192.168.1.10：/share)<br>
+5、临时文件系统(属于内存挂载)（例：tmpfs,proc,sysfs）<br>
