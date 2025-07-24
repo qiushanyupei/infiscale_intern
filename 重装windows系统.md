@@ -15,6 +15,7 @@ QQ拼音安装界面时后两个选项去掉，还需要把状态谈隐藏<br>
 添加“打印机或扫描仪”->手动添加->ip地址：172.16.12.5->TCP/IP设备->选择磁盘安装->选择不共享<br>
 还要安装406打印机<br>
 安装驱动好后要重启;406打印机ip为172.16.12.6<br>
+安装新员工安装包中的Typora时，先安装，再把解压后的两个脚本放在默认路径C:\Program Files\Typora下->以管理员身份运行CMD,win+搜索CMD->以管理员身份运行->在指定目录下运行node_inject.exe，等待done!->运行license-gen.exe->输入序列号进行激活->如果失败，重新打开Typora再进行激活<br>
 office 激活通过登陆账号，只要该账号订阅了office服务，选择是否访问其他相关应用，选择否，选择是如果是给别人用，会泄露个人数据；windows系统激活采用licence<br>
 主机编号：前Type number+后Serial Number<br>
 配置AD流程：<br>
