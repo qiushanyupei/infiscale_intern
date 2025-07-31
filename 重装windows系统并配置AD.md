@@ -1,3 +1,4 @@
+更多IT支持实习岗注意点见https://github.com/qiushanyupei/infiscale_intern<br>
 mediacreationtool可以下载系统镜像文件到U盘，用于重装系统,也可以直接更新系统<br>
 要中断正常启动流程，需要按Enter或者其他键（看启动时的提示），按F1或者F2，听到滴一声响，进入BIOS界面，进行系统重装。<br>
 进入startup->boot->选择对应的U盘（主管的U盘是Kingston）,联想需要通过红色移动键进行优先级拖动，然后继续即可<br>
