@@ -1,1 +1,2 @@
-
+1、获取AppKey和AppSecret（AppKey和AppSecret）,Get请求，获取access_token<br>
+2、做一个POST请求，获取result中的leave_code<br>
