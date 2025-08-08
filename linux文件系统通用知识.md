@@ -11,7 +11,7 @@ sda3：表示第一个硬盘的第三个分区。<br>
 <br>
 SATA（Serial ATA）(ATA:Advanced Technology Attachment)<br>
 分区是对硬件磁盘空间的物理划分，目录是对文件存储结构的逻辑组织<br>
-/dev对于挂载非常关键,常常作为挂载源<br>
+/dev对于挂载非常关键,常常作为挂载源，与物理设备的接口相对应<br>
 挂载有几种分类：<br>
 1、本地磁盘分区（例：/dev/sda1）<br>
 2、U盘/移动硬盘(例：/dev/sdb1)<br>
