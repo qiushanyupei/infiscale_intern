@@ -1,0 +1,2 @@
+net user username password /add
+其中net 是主命令，user是子命令,username和password自己定义，add是一个参数<br>
